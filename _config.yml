@@ -7,10 +7,8 @@ url:                "https://mayukhkundu14.github.io"
 
 # Social Profiles
 twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
-instagram_username:  
-linkedin_username:
+github_username:    mphoward
+linkedin_username:  Michael P. Howard
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
@@ -29,8 +27,8 @@ people:
   pic: 1
   position: Ph.D Candidate
   social:
-    - title: twitter
-      url: #
+    - title: Linkedin
+      url: https://www.linkedin.com/in/mayukh-kundu-88679a144?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BySEr3zvnSqmfjCSBTNyTrw%3D%3D
     - title: facebook
       url: #
 
