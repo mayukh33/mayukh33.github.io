@@ -25,20 +25,19 @@ plugins:
   - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
 
 people:
-- name: Kay Garland
+- name: Mayukh Kundu
   pic: 1
-  position: Lead Designer
+  position: Ph.D Candidate
   social:
     - title: twitter
       url: #
     - title: facebook
       url: #
-    - title: stack-overflow
-      url: #
 
-- name: Larry Parker
+
+- name: Chase Levi Petix
   pic: 2
-  position: Lead Marketer
+  position: Ph.D. Student
   social:
     - title: twitter
       url: #
